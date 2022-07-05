@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:pinterest_ui/pages/feed_page.dart';
+import 'package:pinterest_ui/pages/feed/feed_page.dart';
 import 'package:pinterest_ui/pages/home/home_page.dart';
-import 'package:pinterest_ui/pages/profile_page.dart';
+import 'package:pinterest_ui/pages/profile/profile_page.dart';
 import 'package:pinterest_ui/pages/search_page.dart';
 
 class MainPage extends StatefulWidget {
